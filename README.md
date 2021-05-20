@@ -6,7 +6,7 @@ I'm also launching my IT career as a Front-End developer and you can see some pr
 
 1) A clone of Spotify's Homepage: ;
 
-2) Game Kill Mosquitoes: 
+2) Game Kill Mosquitoes: https://pedrohenrocha.github.io/Game-Kill-Mosquitoes/index.html
 
 LinkedIn's Profile: https://www.linkedin.com/in/pedrohenrocha/
 
