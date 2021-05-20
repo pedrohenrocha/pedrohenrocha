@@ -4,9 +4,9 @@ My name is Pedro Rocha, I'm living in Portugal and I'm studying Informatics Engi
 
 I'm also launching my IT career as a Front-End developer and you can see some projects that I have already done below.
 
-1) A clone of Spotify's Homepage: ;
+1) Game Kill Mosquitoes: https://pedrohenrocha.github.io/Game-Kill-Mosquitoes/index.html
 
-2) Game Kill Mosquitoes: https://pedrohenrocha.github.io/Game-Kill-Mosquitoes/index.html
+2) A clone of Spotify's Homepage: https://pedrohenrocha.github.io/Spotify-Clone/index.html;
 
 LinkedIn's Profile: https://www.linkedin.com/in/pedrohenrocha/
 
