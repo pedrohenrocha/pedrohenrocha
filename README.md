@@ -10,4 +10,6 @@ I'm also launching my IT career as a Front-End developer and you can see some pr
 
 LinkedIn's Profile: https://www.linkedin.com/in/pedrohenrocha/
 
+E-mail: pedro.rockdev@gmail.com
+
 Shall we connect?
